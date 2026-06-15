@@ -87,5 +87,7 @@ streamlit run app.py
 GitHub: https://github.com/your-username
 
 ---
+https://grade-calculator-tjovvkxkespmv5adnaz7cg.streamlit.app/
 
 ⭐ If you like this project, consider giving it a star!
+
